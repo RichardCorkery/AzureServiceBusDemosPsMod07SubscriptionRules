@@ -1,6 +1,6 @@
 # azure-service-bus-demos-ps-mod7-subscription-rules
 
-## Demos of Azure Service Bus: Subscription Rules from Pluralsight Class Azure Service Bus in Dept Module 7
+## Demos of Azure Service Bus: Subscription Rules from Pluralsight Class Azure Service Bus in Depth Module 7
 
 ### This Demo shows how to: 
 - Create a subscription with a default filter (1 = 1)
