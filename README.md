@@ -1,4 +1,4 @@
-# azure-service-bus-demos-ps-mod7-subscription-rules
+# AzureServiceBusDemosPsMod07SubscriptionRules
 
 ## Demos of Azure Service Bus: Subscription Rules from Pluralsight Class Azure Service Bus in Depth Module 7
 
